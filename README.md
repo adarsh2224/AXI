@@ -1,9 +1,9 @@
-## AXI Protocol Verification using UVM
+# AXI Protocol Verification using UVM
 
 This project focuses on the verification of the AXI protocol using UVM.
 The goal of this project was not just to build a testbench, but to understand how real verification environments are structured and how different UVM components interact in a scalable way.
 
-# This AXI Protocol includes:
+## This AXI Protocol includes:
 
 * AXI Master and Slave agents
 * Driver, Monitor, Sequencer, and Scoreboard
@@ -13,7 +13,7 @@ The goal of this project was not just to build a testbench, but to understand ho
 * Randomized transaction generation
 * Reusable UVM architecture
 
-# I worked on creating a modular and reusable verification environment while learning important verification concepts like:
+## I worked on creating a modular and reusable verification environment while learning important verification concepts like:
 
 * Transaction-level modeling (TLM)
 * Factory usage
